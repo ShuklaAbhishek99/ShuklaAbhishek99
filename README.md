@@ -22,7 +22,7 @@
 ### 💬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/abhishek-shukla99/)
 - [Twitter](https://x.com/abhishekshukl99)
-- [Email](abhishekworks99@gmal.com)
+- Email: abhishekworks99@gmal.com
 
 ### 👀 What I'm Looking For
 I'm open to collaborating on exciting projects or joining a dynamic team. If you have an opportunity that aligns with my skills and interests, feel free to reach out!
