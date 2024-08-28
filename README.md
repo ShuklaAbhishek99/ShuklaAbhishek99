@@ -1,17 +1,33 @@
+# Hello, I'm Abhishek Shukla 👋
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShuklaAbhishek99&show_icons=true)
+### 🚀 About Me
+- 👨‍💻 I'm passionate about building fully-featured web applications and exploring new technologies.
+- 🌱 Currently, I'm honing my skills in React, Tailwind CSS, Redux toolkit, etc.
+- 💼 Actively seeking job opportunities in Frontend Development.
 
-<!--
-**ShuklaAbhishek99/ShuklaAbhishek99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Technologies & Tools
+- **Frontend:** React, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3, etc.
+- **Backend:** Appwrite, Supabase
 
-Here are some ideas to get you started:
+### 🌟 Key Projects
+- **[Twitter X Prototype](https://github.com/ShuklaAbhishek99/twitter-x-clone):** A full-featured Twitter clone with real-time updates, theme customization, and a premium page. Built with React, Tailwind CSS, and Appwrite.
+- **[Resume Alchemy](https://github.com/ShuklaAbhishek99/twitter-x-clone):** An AI-powered resume builder that allows users to create, edit, and share resumes. Built with React, Appwrite, Clerk, and Tailwind CSS.
+- **[ChopChop](https://github.com/ShuklaAbhishek99/chop-chop):** A URL shortener app with click analytics and device tracking features. Built with React, Tailwind CSS, Yup, Supabase, Recharts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShuklaAbhishek99&show_icons=true&theme=radical)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuklaAbhishek99&layout=compact&theme=radical)
+
+### 💬 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/abhishek-shukla99/)
+- [Twitter](https://x.com/abhishekshukl99)
+- [Email](abhishekworks99@gmal.com)
+
+### 👀 What I'm Looking For
+I'm open to collaborating on exciting projects or joining a dynamic team. If you have an opportunity that aligns with my skills and interests, feel free to reach out!
+
+---
+
+⭐️ From [Abhishek Shukla](https://github.com/ShuklaAbhishek99)
+
